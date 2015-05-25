@@ -1,0 +1,24 @@
+# Mac Cruft
+._*
+.DS_Store
+.Spotlight-V100
+.Trashes
+
+# Windows Cruft
+Desktop.ini
+
+# Thumbnail Cache Files
+ehthumbs.db
+ehthumbs_vista.db
+iconcache_*.db
+Image.db
+musicThumbs.db
+thumbcache_*.db
+Thumbs.db # Windows & Mac attached network drives
+TVThumb.db
+Video.db
+
+# General Cruft
+*.bak
+/cache/*
+/logs/*
